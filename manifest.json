@@ -1,0 +1,13 @@
+{
+  "id": "local-music-player",
+  "name": "Local Music Player",
+  "version": "1.0.0",
+  "description": "Play a local folder of music files as a looping playlist.",
+  "manifestVersion": 1,
+  "minSupVersion": "14.0.0",
+  "icon": "icon.svg",
+  "iFrame": true,
+  "sidePanel": false,
+  "permissions": ["nodeExecution"],
+  "hooks": []
+}
