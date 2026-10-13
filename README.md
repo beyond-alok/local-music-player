@@ -22,3 +22,5 @@ zip -r ~/local-music-player.zip manifest.json index.html plugin.js icon.svg
 1. go to settings -> plugins -> add plugin -> select local-music-player zip file from home directory -> enable the plugin
 
 it will ask for a permission for node execution. allow that it is necessary to play music in the background.
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/96323c77-840b-41e2-927c-a5fb31d347d3" />
